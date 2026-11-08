@@ -24,8 +24,14 @@ offline. It does not touch the game client, reads nothing during a battle and sh
 Names, images and models are read from your own WoT installation, so the app ships no game content. The interface is available in
 English and German. Your data stays on your computer in `%LOCALAPPDATA%\WoTFileReader`.
 
-## Note
-This is a private fan project. It is not affiliated with or endorsed by Wargaming. World of Tanks is a trademark of Wargaming.
+## Legal notice / Disclaimer
+**No affiliation with Wargaming:** This tool is a private, non-commercial fan project. I am not affiliated in any way with Wargaming.net or World of Tanks. This project is not supported, sponsored or approved by Wargaming.
+
+**Wargaming's intellectual property:** World of Tanks, WoT, the Wargaming logo and all game assets used as part of the replay analysis (e.g. tank icons, map images, vehicle names and game mechanics data) are registered trademarks and intellectual property of Wargaming.net. All rights remain exclusively with the rights holder.
+
+**Own code & copyright:** The source code, design and logic of this replay analyzer were created by me as a private individual (with the help of AI-assisted development tools). To the extent legally protectable, the rights to the implementation are mine. Commercial use or unauthorized redistribution without my consent is prohibited.
+
+**Disclaimer of liability & privacy (replays):** Use of this tool is at your own risk. The software is provided "as is", without any warranty for the accuracy of the calculated statistics. Replay files (.wotreplay) that are read in are used exclusively for analysis.
 
 ---
 
@@ -53,5 +59,11 @@ offline. Sie greift nicht in den Spielclient ein, liest nichts während eines Ge
 Namen, Bilder und Modelle liest die App aus deiner eigenen WoT-Installation, sie liefert also keine Spielinhalte mit. Die Oberfläche gibt es
 auf Deutsch und Englisch. Deine Daten bleiben auf deinem Rechner in `%LOCALAPPDATA%\WoTFileReader`.
 
-### Hinweis
-Dies ist ein privates Fanprojekt. Es steht in keiner Verbindung zu Wargaming und wird von Wargaming nicht unterstützt. World of Tanks ist eine Marke von Wargaming.
+### Rechtlicher Hinweis / Disclaimer
+**Keine Verbindung zu Wargaming:** Dieses Tool ist ein privates, nicht-kommerzielles Fan-Projekt. Ich stehe in keinerlei Verbindung zu Wargaming.net oder World of Tanks. Dieses Projekt wird von Wargaming weder unterstützt noch gesponsert oder genehmigt.
+
+**Geistiges Eigentum von Wargaming:** World of Tanks, WoT, das Wargaming-Logo sowie alle im Rahmen der Replay-Analyse verwendeten Spiel-Assets (z. B. Panzer-Icons, Kartenbilder, Fahrzeugnamen und Spielmechanik-Daten) sind eingetragene Marken und geistiges Eigentum von Wargaming.net. Alle Rechte liegen ausschließlich beim Rechteinhaber.
+
+**Eigener Code & Urheberrecht:** Der Quellcode, das Design und die Logik dieses Replay Analyzers wurden von mir als Privatperson (unter Zuhilfenahme von KI-gestützten Entwicklungswerkzeugen) erstellt. Soweit rechtlich schutzfähig, liegen die Rechte an der Umsetzung bei mir. Eine kommerzielle Nutzung oder unerlaubte Weiterverbreitung ohne meine Zustimmung ist untersagt.
+
+**Haftungsausschluss & Datenschutz (Replays):** Die Nutzung dieses Tools erfolgt auf eigene Gefahr. Die Software wird „wie besehen“ (as is) ohne jegliche Gewährleistung für die Richtigkeit der berechneten Statistiken bereitgestellt. Eingelesene Replay-Dateien (.wotreplay) werden ausschließlich zur Analyse verwendet.
