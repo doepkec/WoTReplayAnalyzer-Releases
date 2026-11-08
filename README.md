@@ -7,6 +7,8 @@ releases. The source code is not public.
 
 **[Download the latest version](https://github.com/doepkec/WoTReplayAnalyzer-Releases/releases/latest)**
 
+Like the tool? [Buy me a coffee](https://buymeacoffee.com/verschnurrt). Donations are voluntary and do not create any claim to features or support.
+
 ## What it does
 - Imports your replay folders and shows every battle in detail
 - Replays battles on the minimap or on a 3D map
@@ -25,7 +27,7 @@ Names, images and models are read from your own WoT installation, so the app shi
 English and German. Your data stays on your computer in `%LOCALAPPDATA%\WoTFileReader`.
 
 ## Legal notice / Disclaimer
-**No affiliation with Wargaming:** This tool is a private, non-commercial fan project. I am not affiliated with Wargaming or Wargaming.net. The project is not supported, sponsored or approved by Wargaming.
+**No affiliation with Wargaming:** This tool is a private, non-commercial fan project. It stays free of charge, and voluntary donations are possible. I am not affiliated with Wargaming or Wargaming.net. The project is not supported, sponsored or approved by Wargaming.
 
 **Wargaming's rights:** World of Tanks, WoT and the Wargaming logo are trademarks of Wargaming. Game content such as tank icons, map images, vehicle names and game data is the intellectual property of Wargaming, and all rights to it remain with the respective rights holder. This tool does not ship any game assets of its own. It reads them at runtime directly from your local game installation.
 
@@ -43,6 +45,8 @@ Downloads für den WoT Replay Analyzer, eine Windows-App zum Auswerten deiner **
 die Releases, der Quellcode ist nicht öffentlich.
 
 **[Neueste Version laden](https://github.com/doepkec/WoTReplayAnalyzer-Releases/releases/latest)**
+
+Gefällt dir das Tool? [Spendier mir einen Kaffee](https://buymeacoffee.com/verschnurrt). Spenden sind freiwillig und begründen keinen Anspruch auf Funktionen oder Support.
 
 ### Was die App kann
 - Replay-Ordner einlesen und jedes Gefecht im Detail zeigen
@@ -62,7 +66,7 @@ Namen, Bilder und Modelle liest die App aus deiner eigenen WoT-Installation, sie
 auf Deutsch und Englisch. Deine Daten bleiben auf deinem Rechner in `%LOCALAPPDATA%\WoTFileReader`.
 
 ### Rechtlicher Hinweis / Disclaimer
-**Keine Verbindung zu Wargaming:** Dieses Tool ist ein privates, nicht-kommerzielles Fan-Projekt. Ich stehe in keiner Verbindung zu Wargaming oder Wargaming.net. Das Projekt wird von Wargaming weder unterstützt noch gesponsert oder genehmigt.
+**Keine Verbindung zu Wargaming:** Dieses Tool ist ein privates, nicht-kommerzielles Fan-Projekt. Es bleibt kostenlos, freiwillige Spenden sind möglich. Ich stehe in keiner Verbindung zu Wargaming oder Wargaming.net. Das Projekt wird von Wargaming weder unterstützt noch gesponsert oder genehmigt.
 
 **Rechte von Wargaming:** World of Tanks, WoT und das Wargaming-Logo sind Marken von Wargaming. Spielinhalte wie Panzer-Icons, Kartenbilder, Fahrzeugnamen und Spieldaten sind geistiges Eigentum von Wargaming, alle Rechte daran liegen beim jeweiligen Rechteinhaber. Dieses Tool liefert keine eigenen Spiel-Assets mit, sondern liest sie zur Laufzeit direkt aus deiner lokalen Spielinstallation aus.
 
