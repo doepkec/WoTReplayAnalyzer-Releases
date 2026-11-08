@@ -5,7 +5,7 @@
 Downloads for WoT Replay Analyzer, a Windows app for analyzing your **World of Tanks replays**. This repository only contains
 releases. The source code is not public.
 
-**[Download the latest version](https://github.com/doepkec/WoTReplayAnalyzer-Releases/releases/latest)**
+**[Download](https://github.com/doepkec/WoTReplayAnalyzer-Releases/releases)**
 
 Like the tool? [Buy me a coffee](https://buymeacoffee.com/verschnurrt). Donations are voluntary and do not create any claim to features or support.
 
@@ -44,7 +44,7 @@ English and German. Your data stays on your computer in `%LOCALAPPDATA%\WoTFileR
 Downloads für den WoT Replay Analyzer, eine Windows-App zum Auswerten deiner **World-of-Tanks-Replays**. Dieses Repository enthält nur
 die Releases, der Quellcode ist nicht öffentlich.
 
-**[Neueste Version laden](https://github.com/doepkec/WoTReplayAnalyzer-Releases/releases/latest)**
+**[Herunterladen](https://github.com/doepkec/WoTReplayAnalyzer-Releases/releases)**
 
 Gefällt dir das Tool? [Spendier mir einen Kaffee](https://buymeacoffee.com/verschnurrt). Spenden sind freiwillig und begründen keinen Anspruch auf Funktionen oder Support.
 
