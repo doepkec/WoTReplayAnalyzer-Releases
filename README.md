@@ -25,13 +25,15 @@ Names, images and models are read from your own WoT installation, so the app shi
 English and German. Your data stays on your computer in `%LOCALAPPDATA%\WoTFileReader`.
 
 ## Legal notice / Disclaimer
-**No affiliation with Wargaming:** This tool is a private, non-commercial fan project. I am not affiliated in any way with Wargaming.net or World of Tanks. This project is not supported, sponsored or approved by Wargaming.
+**No affiliation with Wargaming:** This tool is a private, non-commercial fan project. I am not affiliated with Wargaming or Wargaming.net. The project is not supported, sponsored or approved by Wargaming.
 
-**Wargaming's intellectual property:** World of Tanks, WoT, the Wargaming logo and all game assets used as part of the replay analysis (e.g. tank icons, map images, vehicle names and game mechanics data) are registered trademarks and intellectual property of Wargaming.net. All rights remain exclusively with the rights holder.
+**Wargaming's rights:** World of Tanks, WoT and the Wargaming logo are trademarks of Wargaming. Game content such as tank icons, map images, vehicle names and game data is the intellectual property of Wargaming, and all rights to it remain with the respective rights holder. This tool does not ship any game assets of its own. It reads them at runtime directly from your local game installation.
 
-**Own code & copyright:** The source code, design and logic of this replay analyzer were created by me as a private individual (with the help of AI-assisted development tools). To the extent legally protectable, the rights to the implementation are mine. Commercial use or unauthorized redistribution without my consent is prohibited.
+**Own code and use:** I created the source code, design and logic of this replay analyzer as a private individual with the help of AI-assisted development tools. To the extent legally protectable, the rights to them are mine. Downloading and private, non-commercial use are permitted. Any commercial use and any redistribution require my prior consent.
 
-**Disclaimer of liability & privacy (replays):** Use of this tool is at your own risk. The software is provided "as is", without any warranty for the accuracy of the calculated statistics. Replay files (.wotreplay) that are read in are used exclusively for analysis.
+**Disclaimer of liability:** The software is provided free of charge and "as is". I give no warranty for the accuracy of the calculated statistics or for any errors. Statutory liability, in particular for intent, gross negligence and injury to life, body or health, remains unaffected.
+
+**Privacy & external links:** Replay files (.wotreplay) are analyzed exclusively on your computer and are not transmitted to any server. Only when you actively use the tomato.gg right-click function does your default browser open this external website with the player (name and account ID) or vehicle in question. I have no influence over how tomato.gg processes data, and there is no connection to this service.
 
 ---
 
@@ -60,10 +62,12 @@ Namen, Bilder und Modelle liest die App aus deiner eigenen WoT-Installation, sie
 auf Deutsch und Englisch. Deine Daten bleiben auf deinem Rechner in `%LOCALAPPDATA%\WoTFileReader`.
 
 ### Rechtlicher Hinweis / Disclaimer
-**Keine Verbindung zu Wargaming:** Dieses Tool ist ein privates, nicht-kommerzielles Fan-Projekt. Ich stehe in keinerlei Verbindung zu Wargaming.net oder World of Tanks. Dieses Projekt wird von Wargaming weder unterstützt noch gesponsert oder genehmigt.
+**Keine Verbindung zu Wargaming:** Dieses Tool ist ein privates, nicht-kommerzielles Fan-Projekt. Ich stehe in keiner Verbindung zu Wargaming oder Wargaming.net. Das Projekt wird von Wargaming weder unterstützt noch gesponsert oder genehmigt.
 
-**Geistiges Eigentum von Wargaming:** World of Tanks, WoT, das Wargaming-Logo sowie alle im Rahmen der Replay-Analyse verwendeten Spiel-Assets (z. B. Panzer-Icons, Kartenbilder, Fahrzeugnamen und Spielmechanik-Daten) sind eingetragene Marken und geistiges Eigentum von Wargaming.net. Alle Rechte liegen ausschließlich beim Rechteinhaber.
+**Rechte von Wargaming:** World of Tanks, WoT und das Wargaming-Logo sind Marken von Wargaming. Spielinhalte wie Panzer-Icons, Kartenbilder, Fahrzeugnamen und Spieldaten sind geistiges Eigentum von Wargaming, alle Rechte daran liegen beim jeweiligen Rechteinhaber. Dieses Tool liefert keine eigenen Spiel-Assets mit, sondern liest sie zur Laufzeit direkt aus deiner lokalen Spielinstallation aus.
 
-**Eigener Code & Urheberrecht:** Der Quellcode, das Design und die Logik dieses Replay Analyzers wurden von mir als Privatperson (unter Zuhilfenahme von KI-gestützten Entwicklungswerkzeugen) erstellt. Soweit rechtlich schutzfähig, liegen die Rechte an der Umsetzung bei mir. Eine kommerzielle Nutzung oder unerlaubte Weiterverbreitung ohne meine Zustimmung ist untersagt.
+**Eigener Code und Nutzung:** Quellcode, Design und Logik dieses Replay Analyzers habe ich als Privatperson mit Hilfe KI-gestützter Entwicklungswerkzeuge erstellt. Soweit rechtlich schutzfähig, liegen die Rechte daran bei mir. Das Herunterladen und die private, nicht-kommerzielle Nutzung sind gestattet. Jede kommerzielle Nutzung sowie die Weiterverbreitung bedürfen meiner vorherigen Zustimmung.
 
-**Haftungsausschluss & Datenschutz (Replays):** Die Nutzung dieses Tools erfolgt auf eigene Gefahr. Die Software wird „wie besehen“ (as is) ohne jegliche Gewährleistung für die Richtigkeit der berechneten Statistiken bereitgestellt. Eingelesene Replay-Dateien (.wotreplay) werden ausschließlich zur Analyse verwendet.
+**Haftungsausschluss:** Die Software wird kostenlos und „wie besehen“ (as is) bereitgestellt. Für die Richtigkeit der berechneten Statistiken oder eventuelle Fehler übernehme ich keine Gewähr. Die gesetzliche Haftung, insbesondere bei Vorsatz, grober Fahrlässigkeit sowie bei Schäden an Leben, Körper oder Gesundheit, bleibt davon unberührt.
+
+**Datenschutz & externe Links:** Replay-Dateien (.wotreplay) werden ausschließlich lokal auf deinem Rechner ausgewertet und nicht an Server übertragen. Nur wenn du aktiv per Rechtsklick die Funktion für tomato.gg nutzt, öffnet dein Standardbrowser diese externe Webseite mit dem jeweiligen Spieler (Name und Konto-ID) oder Fahrzeug. Auf die Datenverarbeitung durch tomato.gg habe ich keinen Einfluss, es besteht keine Verbindung zu diesem Dienst.
