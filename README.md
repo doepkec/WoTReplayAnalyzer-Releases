@@ -15,8 +15,8 @@ Like the tool? [Buy me a coffee](https://buymeacoffee.com/verschnurrt). Donation
 - Statistics with your own charts, and heatmaps of your battles on each map
 - A 3D armor inspector with penetration view
 
-The app is a **learning tool** for understanding the game's mechanics. It only analyzes finished replays and reads game files
-offline. It does not touch the game client, reads nothing during a battle and shows nothing in the game.
+The app is a **learning tool** for understanding the game's mechanics. It only reads finished replays and the game files of your installation, and never changes them. It does not access the running
+game: no reading of memory, network traffic or the screen, no overlays and no mods.
 
 ## Getting started
 1. Download `WoTReplayAnalyzer-<version>-win-x64.zip` from the release and unpack it.
@@ -54,8 +54,8 @@ Gefällt dir das Tool? [Spendier mir einen Kaffee](https://buymeacoffee.com/vers
 - Statistiken mit eigenen Diagrammen und Heatmaps deiner Gefechte je Karte
 - 3D-Panzerungs-Inspektor mit Durchschlagsansicht
 
-Die App ist ein **Lernwerkzeug**, um die Mechaniken des Spiels zu verstehen. Sie wertet nur fertige Replays aus und liest Spieldateien
-offline. Sie greift nicht in den Spielclient ein, liest nichts während eines Gefechts mit und zeigt nichts im Spiel an.
+Die App ist ein **Lernwerkzeug**, um die Mechaniken des Spiels zu verstehen. Sie liest nur fertige Replays und die Spieldateien deiner Installation und verändert sie nicht. Auf das laufende Spiel greift sie nicht
+zu: kein Auslesen von Speicher, Netzwerk oder Bildschirm, keine Overlays und keine Mods.
 
 ### Loslegen
 1. `WoTReplayAnalyzer-<version>-win-x64.zip` aus dem Release laden und entpacken.
