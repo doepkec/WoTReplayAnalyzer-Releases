@@ -7,6 +7,8 @@ releases. The source code is not public.
 
 **[Download](https://github.com/doepkec/WoTReplayAnalyzer-Releases/releases)**
 
+Found a bug or have an idea? Join the [Discord server](https://discord.gg/Nh5SeuAafA).
+
 Like the tool? [Buy me a coffee](https://buymeacoffee.com/verschnurrt). Donations are voluntary and do not create any claim to features or support.
 
 ## What it does
@@ -35,7 +37,7 @@ English and German. Your data stays on your computer in `%LOCALAPPDATA%\WoTFileR
 
 **Disclaimer of liability:** The software is provided free of charge and "as is". I give no warranty for the accuracy of the calculated statistics or for any errors. Statutory liability, in particular for intent, gross negligence and injury to life, body or health, remains unaffected.
 
-**Privacy & external links:** Replay files (.wotreplay) are analyzed exclusively on your computer and are not transmitted to any server. Only when you actively use the tomato.gg right-click function does your default browser open this external website with the player (name and account ID) or vehicle in question. I have no influence over how tomato.gg processes data, and there is no connection to this service.
+**Privacy & external links:** Replay files (.wotreplay) are analyzed exclusively on your computer and are not transmitted to any server. Only when you actively use the tomato.gg right-click function does your default browser open this external website with the player (name and account ID) or vehicle in question. I have no influence over how tomato.gg processes data, and there is no connection to this service. The feedback button opens the project's Discord server in your default browser. The app does not transmit anything automatically. Whatever you post or attach there is visible to others and subject to Discord's terms.
 
 ---
 
@@ -45,6 +47,8 @@ Downloads für den WoT Replay Analyzer, eine Windows-App zum Auswerten deiner **
 die Releases, der Quellcode ist nicht öffentlich.
 
 **[Herunterladen](https://github.com/doepkec/WoTReplayAnalyzer-Releases/releases)**
+
+Fehler gefunden oder eine Idee? Komm auf den [Discord-Server](https://discord.gg/Nh5SeuAafA).
 
 Gefällt dir das Tool? [Spendier mir einen Kaffee](https://buymeacoffee.com/verschnurrt). Spenden sind freiwillig und begründen keinen Anspruch auf Funktionen oder Support.
 
@@ -74,4 +78,4 @@ auf Deutsch und Englisch. Deine Daten bleiben auf deinem Rechner in `%LOCALAPPDA
 
 **Haftungsausschluss:** Die Software wird kostenlos und „wie besehen“ (as is) bereitgestellt. Für die Richtigkeit der berechneten Statistiken oder eventuelle Fehler übernehme ich keine Gewähr. Die gesetzliche Haftung, insbesondere bei Vorsatz, grober Fahrlässigkeit sowie bei Schäden an Leben, Körper oder Gesundheit, bleibt davon unberührt.
 
-**Datenschutz & externe Links:** Replay-Dateien (.wotreplay) werden ausschließlich lokal auf deinem Rechner ausgewertet und nicht an Server übertragen. Nur wenn du aktiv per Rechtsklick die Funktion für tomato.gg nutzt, öffnet dein Standardbrowser diese externe Webseite mit dem jeweiligen Spieler (Name und Konto-ID) oder Fahrzeug. Auf die Datenverarbeitung durch tomato.gg habe ich keinen Einfluss, es besteht keine Verbindung zu diesem Dienst.
+**Datenschutz & externe Links:** Replay-Dateien (.wotreplay) werden ausschließlich lokal auf deinem Rechner ausgewertet und nicht an Server übertragen. Nur wenn du aktiv per Rechtsklick die Funktion für tomato.gg nutzt, öffnet dein Standardbrowser diese externe Webseite mit dem jeweiligen Spieler (Name und Konto-ID) oder Fahrzeug. Auf die Datenverarbeitung durch tomato.gg habe ich keinen Einfluss, es besteht keine Verbindung zu diesem Dienst. Der Knopf für Rückmeldungen öffnet den Discord-Server des Projekts in deinem Standardbrowser. Die App überträgt dabei nichts automatisch. Was du dort schreibst oder anhängst, ist für andere sichtbar und unterliegt den Bedingungen von Discord.
